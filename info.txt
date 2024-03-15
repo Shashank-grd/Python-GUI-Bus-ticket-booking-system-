@@ -1,0 +1,7 @@
+from = guna
+to =bhopal
+date=2023-12-12
+
+pymysql is used for database
+
+there is a page database.py having all the commands for the tables used in this project
